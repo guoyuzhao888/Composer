@@ -10,7 +10,7 @@ return [
 
   'username'  => 'root',
 
-  'password'  => '123456',
+  'password'  => '1234566',
 
   'charset'   => 'utf8',
 
