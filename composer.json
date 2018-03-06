@@ -1,0 +1,21 @@
+{
+	"name": "tuzi/hello-world",
+	"autoload":{
+		"psr-4":{
+			"App\\": "Application/"
+		},
+		"classmap": [
+	      "app/controller",
+	      "app/model",
+	      "services"
+	    ]
+	},
+	"require":{
+		"monolog/monolog": "1.0.*",
+		"noahbuscher/macaw": "dev-master",
+		"illuminate/database": "*",
+		"filp/whoops": "*",
+		"nette/mail": "*",
+		"predis/predis": "*"
+	}
+}
