@@ -16,6 +16,6 @@
 		"illuminate/database": "*",
 		"filp/whoops": "*",
 		"nette/mail": "*",
-		"predis/predis": "*"
+		"predis/predis": "*"1
 	}
 }
